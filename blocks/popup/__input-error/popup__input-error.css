@@ -1,0 +1,9 @@
+@import url('./_active/popup__input-error_active.css');
+.popup__input-error {
+    font-family: Inter;
+    font-weight: 400;
+    font-size:12px;
+    line-height: 14.52px;
+    color:red;
+    opacity: 0;
+}
